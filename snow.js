@@ -2,7 +2,7 @@
    DHTML Snowstorm! OO-style Jascript-based Snow effect
    ----------------------------------------------------
    Version 1.4.20091115 (Previous rev: v1.3.20081215)
-   Code by amine bourouba - khe-tech.blogspot.com
+   Code by amine bourouba - khe-tech.blogspot.com http://www.schillmania.com/
    Shared by - Khenchela design
    ----------------------------------------------------
   
